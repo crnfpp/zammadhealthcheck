@@ -1,4 +1,4 @@
-# zammadhealthcheck
+# Zammad Health Check
 A very simple script for App Script to Check Zammad Health and be notified in case of errors.
 1. https://script.google.com/
 2. Create a new blank script with the "New project button"
